@@ -149,4 +149,4 @@ Every request/response shape asserted in the tests is taken from the published A
 
 ## License
 
-PolyForm Noncommercial 1.0.0 — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).

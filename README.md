@@ -14,7 +14,7 @@ Jev takes a **state** plus a map of typed **questions** and returns **typed answ
 ## Install
 
 ```swift
-.package(url: "https://github.com/<you>/TypeSafeKit.git", from: "0.1.0")
+.package(url: "https://github.com/AgentiLoop/TypeSafeKit.git", from: "1.0.0")
 ```
 
 ```swift
@@ -146,3 +146,7 @@ Every request/response shape asserted in the tests is taken from the published A
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=agentiloop/agent&type=date&legend=bottom-right" />
  </picture>
 </a>
+
+## License
+
+PolyForm Noncommercial 1.0.0 — see [LICENSE](LICENSE).
